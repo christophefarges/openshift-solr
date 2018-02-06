@@ -1,4 +1,4 @@
-FROM solr:6.4
+FROM solr:7.2
 MAINTAINER  Jason Dudash "jason.dudash@gmail.com"
 
 USER root
